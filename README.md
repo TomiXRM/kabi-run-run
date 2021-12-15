@@ -58,6 +58,16 @@ Progateの"Pythonのコードを実行する"のページがどのようにし�
 python kabirunrun.py
 ```
 
+## 注意
+
+```bash
+img = cv2.imread('/Users/tomixrm/Desktop/カビ　画像/iPad1.png')
+```
+
+この行のコードがカビの画像を参照するコードになります。
+
+`/Users/tomixrm/Desktop/カビ　画像/iPad1.png`が画像のディレクトリになりますので、ここを編集してください。
+
 # 乾燥
 
 初めてOpenCVとPythonを使ってなんかするってことをしました。難しかったです。
